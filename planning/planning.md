@@ -5,6 +5,7 @@ Notes:
 - React has been your worst subject, but it looks like the best resource 
 for this project. Try to get the backend MVP done before Lunch on Monday. 
 - Make sure the homepage and article page works before doing anything else. 
+- You saved the reddit post that has a masterlist of links on what people can do to help on the folder in your bookmark bar. 
 
 -Four  pages: 
     - Homepage: 
@@ -16,7 +17,9 @@ for this project. Try to get the backend MVP done before Lunch on Monday.
 Reach goals | Gold Standard: 
     - able to sign up for email alerts 
     - How do you link to sharing with your other sights? I think this 
-    was automatically used in the driffle (whatever it was called sight I used Saturday at the Tech Rebalance.) 
+    was automatically used in the driffle (whatever it was called sight I used Saturday at the Tech Rebalance.
+    - Collaberate with Mr. Riffle for a timeline of events | What is happening and Why 
+
     
 
 
