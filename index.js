@@ -5,9 +5,8 @@ const app = express();
 
 
 // Add routes
-// const jobsRouter = require("./routes/jobs")
-// const skillsRouter = require("./routes/skills")
-// const onetRouter = require("./routes/onet")
+const articlesRouter = require("./routes/articles")
+
 
 app.use(cors())
 app.use(parser.urlencoded({extended: true}));
@@ -15,9 +14,7 @@ app.use(parser.json())
 
 // Add paths
 
-// app.use('/', jobsRouter)
-// app.use("/skills", skillsRouter)
-// app.use("/onet", onetRouter)
+app.use('/', articlesRouter)
 
 
 

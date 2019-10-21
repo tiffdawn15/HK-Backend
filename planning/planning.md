@@ -64,3 +64,8 @@ Couch Work:
     - Color scheme 
     - Rounded borders
     - Slight hover effect 
+
+
+    Goal for this project: 
+    - Trying to recreate a news site and add helpful resources for people that would like to contribute. 
+    
