@@ -69,3 +69,14 @@ Couch Work:
     Goal for this project: 
     - Trying to recreate a news site and add helpful resources for people that would like to contribute. 
     
+
+
+
+
+
+Accomplishments: 
+- Monday: 
+    - Solved a terrible error that was caused by updating my OS to Catalina. 
+    - Now that I have updated Mongo the data directory 
+    - Run the below command every time to run mongod 
+    - Run mongod --dbpath ~/mongo/db

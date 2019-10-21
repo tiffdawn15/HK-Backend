@@ -1,265 +1,262 @@
-{
-    
-    "articles": [
-        {
-            "source": {
-                "id": "the-new-york-times",
-                "name": "The New York Times"
-            },
-            "author": "Scott Cacciola",
-            "title": "LeBron James Says Executive Was ‘Misinformed’ in China Tweet",
-            "description": "The Lakers star said he believed Daryl Morey’s choice to post about protests in Hong Kong could have endangered traveling players.",
-            "url": "https://www.nytimes.com/2019/10/14/sports/basketball/lebron-james-china.html",
-            "urlToImage": "https://static01.nyt.com/images/2019/10/14/sports/14lebron-lede/14lebron-lede-facebookJumbo.jpg",
-            "publishedAt": "2019-10-15T03:48:59Z",
-            "content": "James, like many star players in the N.B.A., has large business interests in China through sponsors like Nike. He declined to offer his views of the political situation in China, saying he did not know enough about it to offer an informed opinion.\r\nFor me per… [+1029 chars]"
+[
+    {
+        "source": {
+            "id": "the-new-york-times",
+            "name": "The New York Times"
         },
-        {
-            "source": {
-                "id": null,
-                "name": "Heise.de"
-            },
-            "author": null,
-            "title": "Hongkong-Proteste: Apple-Chef verteidigt Rauswurf von Hongkong-Map-App",
-            "description": "Die App, die Polizeiaktivitäten rund um die Proteste in Hongkong auflistet, wurde für Verbrechen eingesetzt, so Tim Cook. Das Memo stößt auf scharfe Kritik.",
-            "url": "https://www.heise.de/mac-and-i/meldung/Hongkong-Proteste-Apple-Chef-verteidigt-Rauswurf-von-Hongkong-Map-App-4553384.html?wt_mc=rss.ho.beitrag.atom",
-            "urlToImage": "https://heise.cloudimg.io/bound/1200x1200/q85.png-lossy-85.webp-lossy-85.foil1/_www-heise-de_/imgs/18/2/7/6/6/4/7/2/Bildschirmfoto_2019-10-11_um_14-f69d2d674f747008.png",
-            "publishedAt": "2019-10-11T12:13:00Z",
-            "content": "Apple-Chef Tim Cook hat den Rauswurf der HKmap-App aus dem App Store gegenüber Mitarbeitern gerechtfertigt. Er wolle die Beweggründe für die Entscheidung aus \"Respekt vor der Arbeit\" der Angestellten mit diesen teilen, schreibt Cook in dem an die Öffentlichke… [+2325 chars]"
+        "author": "Scott Cacciola",
+        "title": "LeBron James Says Executive Was ‘Misinformed’ in China Tweet",
+        "description": "The Lakers star said he believed Daryl Morey’s choice to post about protests in Hong Kong could have endangered traveling players.",
+        "url": "https://www.nytimes.com/2019/10/14/sports/basketball/lebron-james-china.html",
+        "urlToImage": "https://static01.nyt.com/images/2019/10/14/sports/14lebron-lede/14lebron-lede-facebookJumbo.jpg",
+        "publishedAt": "2019-10-15T03:48:59Z",
+        "content": "James, like many star players in the N.B.A., has large business interests in China through sponsors like Nike. He declined to offer his views of the political situation in China, saying he did not know enough about it to offer an informed opinion.\r\nFor me per… [+1029 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "Heise.de"
         },
-        {
-            "source": {
-                "id": "spiegel-online",
-                "name": "Spiegel Online"
-            },
-            "author": "SPIEGEL ONLINE",
-            "title": "Proteste in Hongkong: Per Notstandsgesetz - Regierung in Hongkong verbietet Vermummung",
-            "description": "In Hongkong dürfen sich Demonstranten künftig nicht mehr mit Masken schützen. Um das Vermummungsverbot durchzusetzen, beruft sich die Regierung auf ein Gesetz der einstigen britischen Kolonialherren.",
-            "url": "https://www.spiegel.de/politik/ausland/hongkong-regierung-nutzt-notstandsgesetz-fuer-vermummungsverbot-a-1289929.html",
-            "urlToImage": "https://cdn1.spiegel.de/images/image-1475883-860_poster_16x9-tflx-1475883.jpg",
-            "publishedAt": "2019-10-04T08:26:39Z",
-            "content": "Freitag, 04.10.2019  \r\n10:26 Uhr\r\nDie Proteste in Hongkong reißen nicht ab. Nun bemüht Regierungschefin Carrie Lam ein Notstandsgesetz aus der britischen Kolonialzeit, um härter gegen die Demonstranten vorzugehen.\r\nWie Lam mitteilte, wurde ein Vermummungsverb… [+2979 chars]"
+        "author": null,
+        "title": "Hongkong-Proteste: Apple-Chef verteidigt Rauswurf von Hongkong-Map-App",
+        "description": "Die App, die Polizeiaktivitäten rund um die Proteste in Hongkong auflistet, wurde für Verbrechen eingesetzt, so Tim Cook. Das Memo stößt auf scharfe Kritik.",
+        "url": "https://www.heise.de/mac-and-i/meldung/Hongkong-Proteste-Apple-Chef-verteidigt-Rauswurf-von-Hongkong-Map-App-4553384.html?wt_mc=rss.ho.beitrag.atom",
+        "urlToImage": "https://heise.cloudimg.io/bound/1200x1200/q85.png-lossy-85.webp-lossy-85.foil1/_www-heise-de_/imgs/18/2/7/6/6/4/7/2/Bildschirmfoto_2019-10-11_um_14-f69d2d674f747008.png",
+        "publishedAt": "2019-10-11T12:13:00Z",
+        "content": "Apple-Chef Tim Cook hat den Rauswurf der HKmap-App aus dem App Store gegenüber Mitarbeitern gerechtfertigt. Er wolle die Beweggründe für die Entscheidung aus \"Respekt vor der Arbeit\" der Angestellten mit diesen teilen, schreibt Cook in dem an die Öffentlichke… [+2325 chars]"
+    },
+    {
+        "source": {
+            "id": "spiegel-online",
+            "name": "Spiegel Online"
         },
-        {
-            "source": {
-                "id": "reddit-r-all",
-                "name": "Reddit /r/all"
-            },
-            "author": null,
-            "title": "Blizzard's Weibo Account Just Posted an Apology – To China (With Translation)",
-            "description": "Posted in r/HongKong by u/N1cknamed • 22 points and 3 comments",
-            "url": "https://www.reddit.com/r/HongKong/comments/dfkmp1/blizzards_official_weibo_account_just_posted_an/",
-            "urlToImage": "https://b.thumbs.redditmedia.com/Z9GWzx8qrQ5Mkb4LgzPrNWWpmQGoRj8-u6eHe2uF0KQ.jpg",
-            "publishedAt": "2019-10-09T18:02:19Z",
-            "content": "<li>You want to ask how you can help. Don't make a post. There are a thousand posts of people from around the world asking this. Please use the search function. Also, See Megathread. Reposts will be removed.</li><li>There is breaking news and you want to post… [+1932 chars]"
+        "author": "SPIEGEL ONLINE",
+        "title": "Proteste in Hongkong: Per Notstandsgesetz - Regierung in Hongkong verbietet Vermummung",
+        "description": "In Hongkong dürfen sich Demonstranten künftig nicht mehr mit Masken schützen. Um das Vermummungsverbot durchzusetzen, beruft sich die Regierung auf ein Gesetz der einstigen britischen Kolonialherren.",
+        "url": "https://www.spiegel.de/politik/ausland/hongkong-regierung-nutzt-notstandsgesetz-fuer-vermummungsverbot-a-1289929.html",
+        "urlToImage": "https://cdn1.spiegel.de/images/image-1475883-860_poster_16x9-tflx-1475883.jpg",
+        "publishedAt": "2019-10-04T08:26:39Z",
+        "content": "Freitag, 04.10.2019  \r\n10:26 Uhr\r\nDie Proteste in Hongkong reißen nicht ab. Nun bemüht Regierungschefin Carrie Lam ein Notstandsgesetz aus der britischen Kolonialzeit, um härter gegen die Demonstranten vorzugehen.\r\nWie Lam mitteilte, wurde ein Vermummungsverb… [+2979 chars]"
+    },
+    {
+        "source": {
+            "id": "reddit-r-all",
+            "name": "Reddit /r/all"
         },
-        {
-            "source": {
-                "id": null,
-                "name": "Youtube.com"
-            },
-            "author": null,
-            "title": "Hong Kong protester shot in the chest by police during clashes - Al Jazeera English",
-            "description": "A Hong Kong pro-democracy protester has been shot in the chest after a police officer opened fire during clashes on Tuesday, as China celebrated the 70th ann...",
-            "url": "https://www.youtube.com/watch?v=CTnLrRb58uA",
-            "urlToImage": "https://i.ytimg.com/vi/CTnLrRb58uA/maxresdefault.jpg",
-            "publishedAt": "2019-10-01T17:46:38Z",
-            "content": "A Hong Kong pro-democracy protester has been shot in the chest after a police officer opened fire during clashes on Tuesday, as China celebrated the 70th anniversary of the communist-led government in Beijing.The incident was the first time a protester has be… [+743 chars]"
+        "author": null,
+        "title": "Blizzard's Weibo Account Just Posted an Apology – To China (With Translation)",
+        "description": "Posted in r/HongKong by u/N1cknamed • 22 points and 3 comments",
+        "url": "https://www.reddit.com/r/HongKong/comments/dfkmp1/blizzards_official_weibo_account_just_posted_an/",
+        "urlToImage": "https://b.thumbs.redditmedia.com/Z9GWzx8qrQ5Mkb4LgzPrNWWpmQGoRj8-u6eHe2uF0KQ.jpg",
+        "publishedAt": "2019-10-09T18:02:19Z",
+        "content": "<li>You want to ask how you can help. Don't make a post. There are a thousand posts of people from around the world asking this. Please use the search function. Also, See Megathread. Reposts will be removed.</li><li>There is breaking news and you want to post… [+1932 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "Youtube.com"
         },
-        {
-            "source": {
-                "id": "spiegel-online",
-                "name": "Spiegel Online"
-            },
-            "author": "SPIEGEL ONLINE",
-            "title": "Betrifft: Greta Thunberg, Pflegebetrug, Hongkong",
-            "description": "Liebe Abonnentin, lieber Abonnent, guten Abend, in unserem Newsletter \"Hausmitteilung\" empfehlen wir Ihnen besondere Geschichten aus dem aktuellen SPIEGEL-Magazin, das Sie als SPIEGEL+-Abonnent bereits jeden Freitagabend ab 18 Uhr lesen können. Wir...",
-            "url": "https://www.spiegel.de/politik/deutschland/spiegel-hausmitteilung-greta-thunberg-pflegebetrug-hongkong-a-1288923.html",
-            "urlToImage": "https://cdn1.spiegel.de/images/image-1473873-860_poster_16x9-pgun-1473873.jpg",
-            "publishedAt": "2019-09-27T16:13:53Z",
-            "content": "Liebe Abonnentin, lieber Abonnent, guten Abend,\r\nin unserem Newsletter \"Hausmitteilung\" empfehlen wir Ihnen besondere Geschichten aus dem aktuellen SPIEGEL-Magazin, das Sie als SPIEGEL+-Abonnent bereits jeden Freitagabend ab 18 Uhr lesen können.\r\nWir wünschen… [+3144 chars]"
+        "author": null,
+        "title": "Hong Kong protester shot in the chest by police during clashes - Al Jazeera English",
+        "description": "A Hong Kong pro-democracy protester has been shot in the chest after a police officer opened fire during clashes on Tuesday, as China celebrated the 70th ann...",
+        "url": "https://www.youtube.com/watch?v=CTnLrRb58uA",
+        "urlToImage": "https://i.ytimg.com/vi/CTnLrRb58uA/maxresdefault.jpg",
+        "publishedAt": "2019-10-01T17:46:38Z",
+        "content": "A Hong Kong pro-democracy protester has been shot in the chest after a police officer opened fire during clashes on Tuesday, as China celebrated the 70th anniversary of the communist-led government in Beijing.The incident was the first time a protester has be… [+743 chars]"
+    },
+    {
+        "source": {
+            "id": "spiegel-online",
+            "name": "Spiegel Online"
         },
-        {
-            "source": {
-                "id": null,
-                "name": "Kotaku.com"
-            },
-            "author": "Brian Ashcraft",
-            "title": "Overwatch's Mei Is Becoming A Symbol Of The Hong Kong Resistance",
-            "description": "After Chung “Blitzchung” Ng Wai called for the liberation of Hong Kong, Blizzard suspended the Hearthstone player and withheld any prize money. The decision has been widely criticized. Fans have now started posting images of Overwatch hero Mei supporting the …",
-            "url": "https://kotaku.com/overwatchs-mei-is-becoming-a-symbol-of-the-hong-kong-re-1838899963",
-            "urlToImage": "https://i.kinja-img.com/gawker-media/image/upload/s--p_VCwaM0--/c_fill,fl_progressive,g_center,h_900,q_80,w_1600/onlooi9lbhsfq73hv0m6.jpg",
-            "publishedAt": "2019-10-09T09:00:00Z",
-            "content": "After Chung Blitzchung Ng Wai called for the liberation of Hong Kong, Blizzard suspended the Hearthstone player and withheld any prize money. The decision has been widely criticized. Fans have now started posting images of Overwatch hero Mei supporting the Ho… [+493 chars]"
+        "author": "SPIEGEL ONLINE",
+        "title": "Betrifft: Greta Thunberg, Pflegebetrug, Hongkong",
+        "description": "Liebe Abonnentin, lieber Abonnent, guten Abend, in unserem Newsletter \"Hausmitteilung\" empfehlen wir Ihnen besondere Geschichten aus dem aktuellen SPIEGEL-Magazin, das Sie als SPIEGEL+-Abonnent bereits jeden Freitagabend ab 18 Uhr lesen können. Wir...",
+        "url": "https://www.spiegel.de/politik/deutschland/spiegel-hausmitteilung-greta-thunberg-pflegebetrug-hongkong-a-1288923.html",
+        "urlToImage": "https://cdn1.spiegel.de/images/image-1473873-860_poster_16x9-pgun-1473873.jpg",
+        "publishedAt": "2019-09-27T16:13:53Z",
+        "content": "Liebe Abonnentin, lieber Abonnent, guten Abend,\r\nin unserem Newsletter \"Hausmitteilung\" empfehlen wir Ihnen besondere Geschichten aus dem aktuellen SPIEGEL-Magazin, das Sie als SPIEGEL+-Abonnent bereits jeden Freitagabend ab 18 Uhr lesen können.\r\nWir wünschen… [+3144 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "Kotaku.com"
         },
-        {
-            "source": {
-                "id": null,
-                "name": "Heise.de"
-            },
-            "author": null,
-            "title": "Hongkong-Proteste: Apple verweigert App der Demonstranten die Freigabe",
-            "description": "Apple lässt die App HKMap nicht aufs iPhone, die Polizeiaktivitäten in Hongkong auf einer Karte darstellt. Das sei illegal, hieß es in der Ablehnung.",
-            "url": "https://www.heise.de/mac-and-i/meldung/Hongkong-Proteste-Apple-verweigert-App-der-Demonstranten-die-Freigabe-4546094.html?wt_mc=rss.ho.beitrag.atom",
-            "urlToImage": "https://heise.cloudimg.io/bound/1200x1200/q85.png-lossy-85.webp-lossy-85.foil1/_www-heise-de_/imgs/18/2/7/6/1/8/9/6/Bildschirmfoto_2019-10-04_um_15-c059fb51ee0776c3.png",
-            "publishedAt": "2019-10-04T14:25:00Z",
-            "content": "Apple verweigert offenbar die Freigabe der iPhone-App HKmap, einer nutzergenerierten Karte über Polizeiaktivitäten während der Proteste in Hongkong. Apple habe die App mit dem Verweis abgelehnt, sie \"ermöglicht und fördert Verhalten, das nicht legal ist\", erk… [+2085 chars]"
+        "author": "Brian Ashcraft",
+        "title": "Overwatch's Mei Is Becoming A Symbol Of The Hong Kong Resistance",
+        "description": "After Chung “Blitzchung” Ng Wai called for the liberation of Hong Kong, Blizzard suspended the Hearthstone player and withheld any prize money. The decision has been widely criticized. Fans have now started posting images of Overwatch hero Mei supporting the …",
+        "url": "https://kotaku.com/overwatchs-mei-is-becoming-a-symbol-of-the-hong-kong-re-1838899963",
+        "urlToImage": "https://i.kinja-img.com/gawker-media/image/upload/s--p_VCwaM0--/c_fill,fl_progressive,g_center,h_900,q_80,w_1600/onlooi9lbhsfq73hv0m6.jpg",
+        "publishedAt": "2019-10-09T09:00:00Z",
+        "content": "After Chung Blitzchung Ng Wai called for the liberation of Hong Kong, Blizzard suspended the Hearthstone player and withheld any prize money. The decision has been widely criticized. Fans have now started posting images of Overwatch hero Mei supporting the Ho… [+493 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "Heise.de"
         },
-        {
-            "source": {
-                "id": null,
-                "name": "Heise.de"
-            },
-            "author": null,
-            "title": "\"Befreit Hongkong\": Blizzard sperrt Hearthstone-E-Sportler für Meinungsäußerung",
-            "description": "\"Blitzchung\" hatte in einem Turnierinterview die Proteste in Hongkong unterstützt. Entwickler Blizzard sperrt ihn für ein Jahr und entlässt zwei Kommentatoren.",
-            "url": "https://www.heise.de/newsticker/meldung/Befreit-Hongkong-Blizzard-sperrt-Hearthstone-E-Sportler-fuer-Meinungsaeusserung-4549238.html?wt_mc=rss.ho.beitrag.atom",
-            "urlToImage": "https://heise.cloudimg.io/bound/1200x1200/q85.png-lossy-85.webp-lossy-85.foil1/_www-heise-de_/imgs/18/2/7/6/4/0/1/1/blitzchung-8e32bf68b5ed580e.jpeg",
-            "publishedAt": "2019-10-08T15:18:00Z",
-            "content": "Ein Hongkonger E-Sportler hat für eine politische Äußerung eine einjährige Sperre erhalten, nachdem er die dortigen Proteste in einem Turnierlivestream des Sammelkartenspiel Hearthstone unterstützt hatte. Wie Spieleentwickler Blizzard mitteilt, werde Ng \"blit… [+2304 chars]"
+        "author": null,
+        "title": "Hongkong-Proteste: Apple verweigert App der Demonstranten die Freigabe",
+        "description": "Apple lässt die App HKMap nicht aufs iPhone, die Polizeiaktivitäten in Hongkong auf einer Karte darstellt. Das sei illegal, hieß es in der Ablehnung.",
+        "url": "https://www.heise.de/mac-and-i/meldung/Hongkong-Proteste-Apple-verweigert-App-der-Demonstranten-die-Freigabe-4546094.html?wt_mc=rss.ho.beitrag.atom",
+        "urlToImage": "https://heise.cloudimg.io/bound/1200x1200/q85.png-lossy-85.webp-lossy-85.foil1/_www-heise-de_/imgs/18/2/7/6/1/8/9/6/Bildschirmfoto_2019-10-04_um_15-c059fb51ee0776c3.png",
+        "publishedAt": "2019-10-04T14:25:00Z",
+        "content": "Apple verweigert offenbar die Freigabe der iPhone-App HKmap, einer nutzergenerierten Karte über Polizeiaktivitäten während der Proteste in Hongkong. Apple habe die App mit dem Verweis abgelehnt, sie \"ermöglicht und fördert Verhalten, das nicht legal ist\", erk… [+2085 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "Heise.de"
         },
-        {
-            "source": {
-                "id": null,
-                "name": "Heise.de"
-            },
-            "author": null,
-            "title": "Honkong-Kontroverse: US-Politiker schreiben kritischen Brief an Blizzard",
-            "description": "US-Politiker kritisieren Blizzards Entscheidung, einen E-Sportler aus Hongkong zu sperren. Der Publisher hat in der Zwischenzeit weitere Spieler gebannt.",
-            "url": "https://www.heise.de/newsticker/meldung/Honkong-Kontroverse-US-Politiker-schreiben-kritischen-Brief-an-Blizzard-4560932.html?wt_mc=rss.ho.beitrag.atom",
-            "urlToImage": "https://heise.cloudimg.io/bound/1200x1200/q85.png-lossy-85.webp-lossy-85.foil1/_www-heise-de_/imgs/18/2/7/7/1/2/8/0/181461724_62295fcc9e-99ee633b8ea39dd2.jpeg",
-            "publishedAt": "2019-10-19T10:17:00Z",
-            "content": "Mehrere US-Politiker haben den Umgang mit dem Hearthstone-Profi Ng \"blitzchung\" Wai Chung in einem gemeinsamen Brief an Activision Blizzard verurteilt. Blizzard hatte den Profi zunächst für ein Jahr gesperrt, nachdem er sich in einer Live-Übertragung mit den … [+2713 chars]"
+        "author": null,
+        "title": "\"Befreit Hongkong\": Blizzard sperrt Hearthstone-E-Sportler für Meinungsäußerung",
+        "description": "\"Blitzchung\" hatte in einem Turnierinterview die Proteste in Hongkong unterstützt. Entwickler Blizzard sperrt ihn für ein Jahr und entlässt zwei Kommentatoren.",
+        "url": "https://www.heise.de/newsticker/meldung/Befreit-Hongkong-Blizzard-sperrt-Hearthstone-E-Sportler-fuer-Meinungsaeusserung-4549238.html?wt_mc=rss.ho.beitrag.atom",
+        "urlToImage": "https://heise.cloudimg.io/bound/1200x1200/q85.png-lossy-85.webp-lossy-85.foil1/_www-heise-de_/imgs/18/2/7/6/4/0/1/1/blitzchung-8e32bf68b5ed580e.jpeg",
+        "publishedAt": "2019-10-08T15:18:00Z",
+        "content": "Ein Hongkonger E-Sportler hat für eine politische Äußerung eine einjährige Sperre erhalten, nachdem er die dortigen Proteste in einem Turnierlivestream des Sammelkartenspiel Hearthstone unterstützt hatte. Wie Spieleentwickler Blizzard mitteilt, werde Ng \"blit… [+2304 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "Heise.de"
         },
-        {
-            "source": {
-                "id": null,
-                "name": "Heise.de"
-            },
-            "author": null,
-            "title": "Apple dehnt Bann für Taiwan-Flaggen-Emoji aus",
-            "description": "Mit einem iOS-13-Update hat Apple die Nationalflagge Taiwans vom Emoji-Keyboard jetzt auch in Hongkong getilgt. Es bleiben aber Schlupflöcher.",
-            "url": "https://www.heise.de/mac-and-i/meldung/Apple-dehnt-Bann-fuer-Taiwan-Flaggen-Emoji-aus-4549268.html?wt_mc=rss.ho.beitrag.atom",
-            "urlToImage": "https://heise.cloudimg.io/bound/1200x1200/q85.png-lossy-85.webp-lossy-85.foil1/_www-heise-de_/imgs/18/2/7/6/4/0/3/3/IMG_3AA182039F35-1_2-1367558a9551b92b.jpeg",
-            "publishedAt": "2019-10-08T14:34:00Z",
-            "content": "Mit System-Updates hat Apple den Bann für die Flagge Taiwans erstmals außerhalb von Kontinentalchina eingeführt: Die Emoji-Tastatur in iOS 13 zeigt seit Version 13.1.1 die Nationalflagge von Taiwan (Republik China) auch in den Sonderverwaltungszonen Hongkong … [+1890 chars]"
+        "author": null,
+        "title": "Honkong-Kontroverse: US-Politiker schreiben kritischen Brief an Blizzard",
+        "description": "US-Politiker kritisieren Blizzards Entscheidung, einen E-Sportler aus Hongkong zu sperren. Der Publisher hat in der Zwischenzeit weitere Spieler gebannt.",
+        "url": "https://www.heise.de/newsticker/meldung/Honkong-Kontroverse-US-Politiker-schreiben-kritischen-Brief-an-Blizzard-4560932.html?wt_mc=rss.ho.beitrag.atom",
+        "urlToImage": "https://heise.cloudimg.io/bound/1200x1200/q85.png-lossy-85.webp-lossy-85.foil1/_www-heise-de_/imgs/18/2/7/7/1/2/8/0/181461724_62295fcc9e-99ee633b8ea39dd2.jpeg",
+        "publishedAt": "2019-10-19T10:17:00Z",
+        "content": "Mehrere US-Politiker haben den Umgang mit dem Hearthstone-Profi Ng \"blitzchung\" Wai Chung in einem gemeinsamen Brief an Activision Blizzard verurteilt. Blizzard hatte den Profi zunächst für ein Jahr gesperrt, nachdem er sich in einer Live-Übertragung mit den … [+2713 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "Heise.de"
         },
-        {
-            "source": {
-                "id": null,
-                "name": "Heise.de"
-            },
-            "author": null,
-            "title": "Proteste in Hongkong: Scharfe Apple-Kritik aus Peking nach App-Zulassung",
-            "description": "Mit der Freigabe der HKmap-App, die Polizeiaktivitäten in Hongkong zeigt, sei Apple für gewalttätige Proteste mitverantwortlich, heißt es in der Volkszeitung.",
-            "url": "https://www.heise.de/mac-and-i/meldung/Proteste-in-Hongkong-Scharfe-Apple-Kritik-aus-Peking-nach-App-Zulassung-4550374.html?wt_mc=rss.ho.beitrag.atom",
-            "urlToImage": "https://heise.cloudimg.io/bound/1200x1200/q85.png-lossy-85.webp-lossy-85.foil1/_www-heise-de_/imgs/18/2/7/6/4/8/1/6/urn-newsml-dpa-com-20090101-170730-99-448290_large_4_3-d3fb52ffbc77d91c.jpeg",
-            "publishedAt": "2019-10-09T12:28:00Z",
-            "content": "China wirft Apple vor, mit der Zulassung der HKmap-App für das iPhone \"Randalierern\" in Hongkong zu helfen und so zu gewalttätigen Protesten beizutragen. Die App biete einen \"Navigationsdienst für Aufrührer\", mit dem sich die Polizei umgehen lasse, kritisiert… [+1685 chars]"
+        "author": null,
+        "title": "Apple dehnt Bann für Taiwan-Flaggen-Emoji aus",
+        "description": "Mit einem iOS-13-Update hat Apple die Nationalflagge Taiwans vom Emoji-Keyboard jetzt auch in Hongkong getilgt. Es bleiben aber Schlupflöcher.",
+        "url": "https://www.heise.de/mac-and-i/meldung/Apple-dehnt-Bann-fuer-Taiwan-Flaggen-Emoji-aus-4549268.html?wt_mc=rss.ho.beitrag.atom",
+        "urlToImage": "https://heise.cloudimg.io/bound/1200x1200/q85.png-lossy-85.webp-lossy-85.foil1/_www-heise-de_/imgs/18/2/7/6/4/0/3/3/IMG_3AA182039F35-1_2-1367558a9551b92b.jpeg",
+        "publishedAt": "2019-10-08T14:34:00Z",
+        "content": "Mit System-Updates hat Apple den Bann für die Flagge Taiwans erstmals außerhalb von Kontinentalchina eingeführt: Die Emoji-Tastatur in iOS 13 zeigt seit Version 13.1.1 die Nationalflagge von Taiwan (Republik China) auch in den Sonderverwaltungszonen Hongkong … [+1890 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "Heise.de"
         },
-        {
-            "source": {
-                "id": null,
-                "name": "Heise.de"
-            },
-            "author": null,
-            "title": "Gesperrter E-Sportler aus Hongkong: Spieler rufen zum Blizzard-Boykott auf",
-            "description": "Blizzard sperrt einen Hearthstone-Profi, der die Hongkong-Proteste unterstützt. Die empörte Community ruft daher zum Boykott auf – auch Politiker sind wütend.",
-            "url": "https://www.heise.de/newsticker/meldung/Gesperrter-E-Sportler-aus-Hongkong-Spieler-rufen-zum-Blizzard-Boykott-auf-4550336.html?wt_mc=rss.ho.beitrag.atom",
-            "urlToImage": "https://heise.cloudimg.io/bound/1200x1200/q85.png-lossy-85.webp-lossy-85.foil1/_www-heise-de_/imgs/18/2/7/6/4/7/8/9/181461724_62295fcc9e-99ee633b8ea39dd2.jpeg",
-            "publishedAt": "2019-10-09T13:36:00Z",
-            "content": "Der US-amerikanische Spiele-Publisher Blizzard steht nach der Entscheidung, einen Hearthstone-Profi aus Hongkong für ein Jahr von Turnieren auszuschließen, massiv in der Kritik. Der E-Sportler Ng \"blitzchung\" Wai Chung hatte in einem von Blizzard ausgetragene… [+3395 chars]"
+        "author": null,
+        "title": "Proteste in Hongkong: Scharfe Apple-Kritik aus Peking nach App-Zulassung",
+        "description": "Mit der Freigabe der HKmap-App, die Polizeiaktivitäten in Hongkong zeigt, sei Apple für gewalttätige Proteste mitverantwortlich, heißt es in der Volkszeitung.",
+        "url": "https://www.heise.de/mac-and-i/meldung/Proteste-in-Hongkong-Scharfe-Apple-Kritik-aus-Peking-nach-App-Zulassung-4550374.html?wt_mc=rss.ho.beitrag.atom",
+        "urlToImage": "https://heise.cloudimg.io/bound/1200x1200/q85.png-lossy-85.webp-lossy-85.foil1/_www-heise-de_/imgs/18/2/7/6/4/8/1/6/urn-newsml-dpa-com-20090101-170730-99-448290_large_4_3-d3fb52ffbc77d91c.jpeg",
+        "publishedAt": "2019-10-09T12:28:00Z",
+        "content": "China wirft Apple vor, mit der Zulassung der HKmap-App für das iPhone \"Randalierern\" in Hongkong zu helfen und so zu gewalttätigen Protesten beizutragen. Die App biete einen \"Navigationsdienst für Aufrührer\", mit dem sich die Polizei umgehen lasse, kritisiert… [+1685 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "Heise.de"
         },
-        {
-            "source": {
-                "id": "spiegel-online",
-                "name": "Spiegel Online"
-            },
-            "author": "SPIEGEL ONLINE",
-            "title": "Sicherheitsbedenken: U-Bahn-Verkehr in Hongkong eingestellt",
-            "description": "Am Samstagmorgen fahren in Hongkong weder Busse noch Bahnen, betroffen ist auch die Verbindung zum Flughafen: Der Betreiber begründet das mit Sicherheitsbedenken. Es werden neue Proteste erwartet.",
-            "url": "https://www.spiegel.de/politik/ausland/hongkong-u-bahn-verkehr-wegen-sicherheitsbedenken-eingestellt-a-1290110.html",
-            "urlToImage": "https://cdn1.spiegel.de/images/image-1476251-860_poster_16x9-czuk-1476251.jpg",
-            "publishedAt": "2019-10-05T04:59:56Z",
-            "content": "Samstag, 05.10.2019  \r\n06:59 Uhr\r\nIn Hongkong wird am Samstag angesichts der teils gewaltsamen Massenproteste der U-Bahn-Verkehr vorläufig eingestellt. Die Bahnen und Busse in der chinesischen Sonderverwaltungszone würden ab dem Morgen nicht fahren, erklärte … [+1435 chars]"
+        "author": null,
+        "title": "Gesperrter E-Sportler aus Hongkong: Spieler rufen zum Blizzard-Boykott auf",
+        "description": "Blizzard sperrt einen Hearthstone-Profi, der die Hongkong-Proteste unterstützt. Die empörte Community ruft daher zum Boykott auf – auch Politiker sind wütend.",
+        "url": "https://www.heise.de/newsticker/meldung/Gesperrter-E-Sportler-aus-Hongkong-Spieler-rufen-zum-Blizzard-Boykott-auf-4550336.html?wt_mc=rss.ho.beitrag.atom",
+        "urlToImage": "https://heise.cloudimg.io/bound/1200x1200/q85.png-lossy-85.webp-lossy-85.foil1/_www-heise-de_/imgs/18/2/7/6/4/7/8/9/181461724_62295fcc9e-99ee633b8ea39dd2.jpeg",
+        "publishedAt": "2019-10-09T13:36:00Z",
+        "content": "Der US-amerikanische Spiele-Publisher Blizzard steht nach der Entscheidung, einen Hearthstone-Profi aus Hongkong für ein Jahr von Turnieren auszuschließen, massiv in der Kritik. Der E-Sportler Ng \"blitzchung\" Wai Chung hatte in einem von Blizzard ausgetragene… [+3395 chars]"
+    },
+    {
+        "source": {
+            "id": "spiegel-online",
+            "name": "Spiegel Online"
         },
-        {
-            "source": {
-                "id": null,
-                "name": "Heise.de"
-            },
-            "author": null,
-            "title": "Leak: Wie TikTok-Moderatoren Inhalte zensieren",
-            "description": "Ein geleaktes Dokument zeigt, welche Inhalte Moderatoren der chinesischen App TikTok löschen sollen. Auf der Liste stehen auch 20 Namen.",
-            "url": "https://www.heise.de/newsticker/meldung/Leak-Wie-TikTok-Moderatoren-Inhalte-zensieren-4538610.html?wt_mc=rss.ho.beitrag.atom",
-            "urlToImage": "https://heise.cloudimg.io/bound/1200x1200/q85.png-lossy-85.webp-lossy-85.foil1/_www-heise-de_/imgs/18/2/7/5/6/4/3/2/shutterstock_1420676708-460542a4d4d8c4fe.jpeg",
-            "publishedAt": "2019-09-25T11:11:00Z",
-            "content": "Die chinesische App TikTok lässt kontroverse Inhalte nicht zu was konkret alles zensiert wird, zeigt ein Dokument mit Regeln für die Moderatoren, das jetzt bekannt wurde. Der Vorwurf der Zensur steht spätestens seit den Protesten in Hongkong im Raum. Betroffe… [+3265 chars]"
+        "author": "SPIEGEL ONLINE",
+        "title": "Sicherheitsbedenken: U-Bahn-Verkehr in Hongkong eingestellt",
+        "description": "Am Samstagmorgen fahren in Hongkong weder Busse noch Bahnen, betroffen ist auch die Verbindung zum Flughafen: Der Betreiber begründet das mit Sicherheitsbedenken. Es werden neue Proteste erwartet.",
+        "url": "https://www.spiegel.de/politik/ausland/hongkong-u-bahn-verkehr-wegen-sicherheitsbedenken-eingestellt-a-1290110.html",
+        "urlToImage": "https://cdn1.spiegel.de/images/image-1476251-860_poster_16x9-czuk-1476251.jpg",
+        "publishedAt": "2019-10-05T04:59:56Z",
+        "content": "Samstag, 05.10.2019  \r\n06:59 Uhr\r\nIn Hongkong wird am Samstag angesichts der teils gewaltsamen Massenproteste der U-Bahn-Verkehr vorläufig eingestellt. Die Bahnen und Busse in der chinesischen Sonderverwaltungszone würden ab dem Morgen nicht fahren, erklärte … [+1435 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "Heise.de"
         },
-        {
-            "source": {
-                "id": "spiegel-online",
-                "name": "Spiegel Online"
-            },
-            "author": "SPIEGEL ONLINE",
-            "title": "Wegen Solidarität mit Hongkong: Spielehersteller Blizzard sperrt E-Sport-Profi",
-            "description": "Während der Live-Übertragung eines E-Sport-Wettbewerbs sendete ein \"Hearthstone\"-Profi eine Botschaft zu den Demonstranten in seiner Heimat Hongkong. Der Veranstalter reagiert mit drakonischen Maßnahmen.",
-            "url": "https://www.spiegel.de/sport/sonst/hongkong-blizzard-sperrt-e-sport-profi-wegen-solidaritaets-aktion-a-1290542.html",
-            "urlToImage": "https://cdn1.spiegel.de/images/image-1477038-860_poster_16x9-sgbi-1477038.jpg",
-            "publishedAt": "2019-10-08T15:15:06Z",
-            "content": null
+        "author": null,
+        "title": "Leak: Wie TikTok-Moderatoren Inhalte zensieren",
+        "description": "Ein geleaktes Dokument zeigt, welche Inhalte Moderatoren der chinesischen App TikTok löschen sollen. Auf der Liste stehen auch 20 Namen.",
+        "url": "https://www.heise.de/newsticker/meldung/Leak-Wie-TikTok-Moderatoren-Inhalte-zensieren-4538610.html?wt_mc=rss.ho.beitrag.atom",
+        "urlToImage": "https://heise.cloudimg.io/bound/1200x1200/q85.png-lossy-85.webp-lossy-85.foil1/_www-heise-de_/imgs/18/2/7/5/6/4/3/2/shutterstock_1420676708-460542a4d4d8c4fe.jpeg",
+        "publishedAt": "2019-09-25T11:11:00Z",
+        "content": "Die chinesische App TikTok lässt kontroverse Inhalte nicht zu was konkret alles zensiert wird, zeigt ein Dokument mit Regeln für die Moderatoren, das jetzt bekannt wurde. Der Vorwurf der Zensur steht spätestens seit den Protesten in Hongkong im Raum. Betroffe… [+3265 chars]"
+    },
+    {
+        "source": {
+            "id": "spiegel-online",
+            "name": "Spiegel Online"
         },
-        {
-            "source": {
-                "id": null,
-                "name": "Heise.de"
-            },
-            "author": null,
-            "title": "Berichterstattung zu Hongkong-Protesten: Apple löscht Nachrichten-App in China",
-            "description": "Die News-App Quartz ist nicht länger im App Store China erhältlich. Apple verweist auf \"illegale\" Inhalte.",
-            "url": "https://www.heise.de/mac-and-i/meldung/Berichterstattung-zu-Hongkong-Protesten-Apple-loescht-Nachrichten-App-in-China-4551196.html?wt_mc=rss.ho.beitrag.atom",
-            "urlToImage": "https://heise.cloudimg.io/bound/1200x1200/q85.png-lossy-85.webp-lossy-85.foil1/_www-heise-de_/imgs/18/2/7/6/5/5/1/5/urn-newsml-dpa-com-20090101-191010-99-234689_large_4_3-8edcdd7b912549d6.jpeg",
-            "publishedAt": "2019-10-10T13:59:00Z",
-            "content": "Apple hat am Donnerstag eine weitere iPhone-App aus dem App Store China geworfen. Das Angebot der US-Nachrichtenorganisation Quartz ist dort nicht länger zum Download erhältlich. Zuvor wurde bereits die erst abgelehnte und dann doch noch zugelassene App HKmap… [+2252 chars]"
+        "author": "SPIEGEL ONLINE",
+        "title": "Wegen Solidarität mit Hongkong: Spielehersteller Blizzard sperrt E-Sport-Profi",
+        "description": "Während der Live-Übertragung eines E-Sport-Wettbewerbs sendete ein \"Hearthstone\"-Profi eine Botschaft zu den Demonstranten in seiner Heimat Hongkong. Der Veranstalter reagiert mit drakonischen Maßnahmen.",
+        "url": "https://www.spiegel.de/sport/sonst/hongkong-blizzard-sperrt-e-sport-profi-wegen-solidaritaets-aktion-a-1290542.html",
+        "urlToImage": "https://cdn1.spiegel.de/images/image-1477038-860_poster_16x9-sgbi-1477038.jpg",
+        "publishedAt": "2019-10-08T15:15:06Z",
+        "content": null
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "Heise.de"
         },
-        {
-            "source": {
-                "id": null,
-                "name": "Heise.de"
-            },
-            "author": null,
-            "title": "E-Sportler aus Hongkong: Blizzard rechtfertigt sich im Sperr-Skandal",
-            "description": "Nach anhaltender Kritik hat Blizzard die gegen den Hearthstone-Spieler \"blitzchung\" verhängte Strafe reduziert, aber auch das eigene Vorgehen gerechtfertigt.",
-            "url": "https://www.heise.de/newsticker/meldung/E-Sportler-aus-Hongkong-Blizzard-rechtfertigt-sich-im-Sperr-Skandal-4554141.html?wt_mc=rss.ho.beitrag.atom",
-            "urlToImage": "https://heise.cloudimg.io/bound/1200x1200/q85.png-lossy-85.webp-lossy-85.foil1/_www-heise-de_/imgs/18/2/7/6/6/9/4/5/181461724_62295fcc9e-99ee633b8ea39dd2.jpeg",
-            "publishedAt": "2019-10-12T11:22:00Z",
-            "content": "Nach langem Schweigen hat sich J. Allen Brack, Präsident von Blizzard Entertainment, zur Sperrung des Hearthstone-Spielers Ng \"blitzchung\" Wai Chung geäußert. Zum einen wurde die Sperre des E-Sportlers von einem Jahr auf sechs Monate reduziert, zum anderen we… [+2417 chars]"
+        "author": null,
+        "title": "Berichterstattung zu Hongkong-Protesten: Apple löscht Nachrichten-App in China",
+        "description": "Die News-App Quartz ist nicht länger im App Store China erhältlich. Apple verweist auf \"illegale\" Inhalte.",
+        "url": "https://www.heise.de/mac-and-i/meldung/Berichterstattung-zu-Hongkong-Protesten-Apple-loescht-Nachrichten-App-in-China-4551196.html?wt_mc=rss.ho.beitrag.atom",
+        "urlToImage": "https://heise.cloudimg.io/bound/1200x1200/q85.png-lossy-85.webp-lossy-85.foil1/_www-heise-de_/imgs/18/2/7/6/5/5/1/5/urn-newsml-dpa-com-20090101-191010-99-234689_large_4_3-8edcdd7b912549d6.jpeg",
+        "publishedAt": "2019-10-10T13:59:00Z",
+        "content": "Apple hat am Donnerstag eine weitere iPhone-App aus dem App Store China geworfen. Das Angebot der US-Nachrichtenorganisation Quartz ist dort nicht länger zum Download erhältlich. Zuvor wurde bereits die erst abgelehnte und dann doch noch zugelassene App HKmap… [+2252 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "Heise.de"
         },
-        {
-            "source": {
-                "id": "spiegel-online",
-                "name": "Spiegel Online"
-            },
-            "author": "SPIEGEL ONLINE",
-            "title": "Medienbericht: China schickt offenbar Tausende Militärs zusätzlich nach Hongkong",
-            "description": "In Hongkong mobilisieren die Proteste gegen Chinas Einfluss seit Monaten Zehntausende Menschen. Einem Bericht zufolge hat Peking die militärische Präsenz in der Sonderverwaltungszone nun mehr als verdoppelt.",
-            "url": "https://www.spiegel.de/politik/ausland/hongkong-china-schickt-bericht-zufolge-tausende-zusaetzliche-militaers-a-1289331.html",
-            "urlToImage": "https://cdn1.spiegel.de/images/image-1474607-860_poster_16x9-hsuh-1474607.jpg",
-            "publishedAt": "2019-09-30T13:44:22Z",
-            "content": "Montag, 30.09.2019  \r\n15:44 Uhr\r\nTrotz der Drohgebärden aus China flauen die Proteste in Hongkong auch nach Monaten nicht ab. Nach Informationen der Nachrichtenagentur Reuters hat die Volksrepublik nun Tausende zusätzliche Einsatzkräfte in die Sonderverwaltun… [+1688 chars]"
+        "author": null,
+        "title": "E-Sportler aus Hongkong: Blizzard rechtfertigt sich im Sperr-Skandal",
+        "description": "Nach anhaltender Kritik hat Blizzard die gegen den Hearthstone-Spieler \"blitzchung\" verhängte Strafe reduziert, aber auch das eigene Vorgehen gerechtfertigt.",
+        "url": "https://www.heise.de/newsticker/meldung/E-Sportler-aus-Hongkong-Blizzard-rechtfertigt-sich-im-Sperr-Skandal-4554141.html?wt_mc=rss.ho.beitrag.atom",
+        "urlToImage": "https://heise.cloudimg.io/bound/1200x1200/q85.png-lossy-85.webp-lossy-85.foil1/_www-heise-de_/imgs/18/2/7/6/6/9/4/5/181461724_62295fcc9e-99ee633b8ea39dd2.jpeg",
+        "publishedAt": "2019-10-12T11:22:00Z",
+        "content": "Nach langem Schweigen hat sich J. Allen Brack, Präsident von Blizzard Entertainment, zur Sperrung des Hearthstone-Spielers Ng \"blitzchung\" Wai Chung geäußert. Zum einen wurde die Sperre des E-Sportlers von einem Jahr auf sechs Monate reduziert, zum anderen we… [+2417 chars]"
+    },
+    {
+        "source": {
+            "id": "spiegel-online",
+            "name": "Spiegel Online"
         },
-        {
-            "source": {
-                "id": "spiegel-online",
-                "name": "Spiegel Online"
-            },
-            "author": "SPIEGEL ONLINE",
-            "title": "China feiert 70. Gründungstag: Hongkong bereitet sich auf Ausschreitungen vor",
-            "description": "Tausende Polizisten halten sich bereit, Straßen und U-Bahn-Stationen sind gesperrt, Einkaufszentren geschlossen: In Hongkong wird angesichts der Feierlichkeiten zum 70. Staatsjubiläum Chinas mit Protesten gerechnet.",
-            "url": "https://www.spiegel.de/politik/ausland/china-feiert-70-gruendungstag-hongkong-bereitet-sich-auf-ausschreitungen-vor-a-1289426.html",
-            "urlToImage": "https://cdn1.spiegel.de/images/image-1474777-860_poster_16x9-clro-1474777.jpg",
-            "publishedAt": "2019-10-01T01:28:12Z",
-            "content": "Dienstag, 01.10.2019  \r\n03:28 Uhr\r\nUnter hohen Sicherheitsvorkehrungen - und in Erwartung neuer Ausschreitungen - haben in Hongkong die Feierlichkeiten zum 70. Geburtstag der Volksrepublik China begonnen. Abgeriegelt von der Öffentlichkeit verfolgten geladene… [+2238 chars]"
-        }
-    ]
-}
+        "author": "SPIEGEL ONLINE",
+        "title": "Medienbericht: China schickt offenbar Tausende Militärs zusätzlich nach Hongkong",
+        "description": "In Hongkong mobilisieren die Proteste gegen Chinas Einfluss seit Monaten Zehntausende Menschen. Einem Bericht zufolge hat Peking die militärische Präsenz in der Sonderverwaltungszone nun mehr als verdoppelt.",
+        "url": "https://www.spiegel.de/politik/ausland/hongkong-china-schickt-bericht-zufolge-tausende-zusaetzliche-militaers-a-1289331.html",
+        "urlToImage": "https://cdn1.spiegel.de/images/image-1474607-860_poster_16x9-hsuh-1474607.jpg",
+        "publishedAt": "2019-09-30T13:44:22Z",
+        "content": "Montag, 30.09.2019  \r\n15:44 Uhr\r\nTrotz der Drohgebärden aus China flauen die Proteste in Hongkong auch nach Monaten nicht ab. Nach Informationen der Nachrichtenagentur Reuters hat die Volksrepublik nun Tausende zusätzliche Einsatzkräfte in die Sonderverwaltun… [+1688 chars]"
+    },
+    {
+        "source": {
+            "id": "spiegel-online",
+            "name": "Spiegel Online"
+        },
+        "author": "SPIEGEL ONLINE",
+        "title": "China feiert 70. Gründungstag: Hongkong bereitet sich auf Ausschreitungen vor",
+        "description": "Tausende Polizisten halten sich bereit, Straßen und U-Bahn-Stationen sind gesperrt, Einkaufszentren geschlossen: In Hongkong wird angesichts der Feierlichkeiten zum 70. Staatsjubiläum Chinas mit Protesten gerechnet.",
+        "url": "https://www.spiegel.de/politik/ausland/china-feiert-70-gruendungstag-hongkong-bereitet-sich-auf-ausschreitungen-vor-a-1289426.html",
+        "urlToImage": "https://cdn1.spiegel.de/images/image-1474777-860_poster_16x9-clro-1474777.jpg",
+        "publishedAt": "2019-10-01T01:28:12Z",
+        "content": "Dienstag, 01.10.2019  \r\n03:28 Uhr\r\nUnter hohen Sicherheitsvorkehrungen - und in Erwartung neuer Ausschreitungen - haben in Hongkong die Feierlichkeiten zum 70. Geburtstag der Volksrepublik China begonnen. Abgeriegelt von der Öffentlichkeit verfolgten geladene… [+2238 chars]"
+    }
+]
