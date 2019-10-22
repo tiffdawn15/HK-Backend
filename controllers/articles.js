@@ -5,7 +5,7 @@ module.exports = {
     index: (req, res) => {
       Articles.find({})
       .populate("article")
-      .then(article => {
+      .then(articles => {
         res.json(articles);
       });
     },

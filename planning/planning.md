@@ -35,7 +35,7 @@ Monday:
 Tuesday: 
 - Before Lunch: 
     - Finish Homepage & start on article details page. 
-    - Get the backend ot talk to the front-end. (Use fetch )
+    - Get the backend to talk to the front-end. (Use fetch)
 
 - After Lunch: 
     - Article page & How you can help page. 
@@ -80,3 +80,21 @@ Accomplishments:
     - Now that I have updated Mongo the data directory 
     - Run the below command every time to run mongod 
     - Run mongod --dbpath ~/mongo/db
+
+
+Tuesday Morning Thoughts: 
+- How do you get the title to have the value of the link to the article?  
+- Originally I wanted a detail page that displayed the entire article, but it looks like I don't have the ability to show that without just linking to the article title. 
+    - If that is the case, then I should try to make the article title a link. 
+    
+
+
+What to look for reviewing the API documentation 
+- Can you link to the entire article 
+- Is there a way to only receive articles that are written in English? 
+
+
+
+Thought for another implementation: 
+- Would there be a way to make a graph that showed the differt topics that the news are talking about 
+    - ie: Lebron James or the leader of Hong Kong's response to the article. 
